@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registro de estudiantes</string>
+    <string name="label_student_list">Lista de estudiantes</string>
+    <string name="label_name">Nombre:</string>
+    <string name="label_ncontrol">Num. Control:</string>
+    <string name="label_carrera">Carrera:</string>
+    <string name="label_semestre">Semestre:</string>
+    <string name="label_grupo">Grupo</string>
+    <string name="btn_register">Registrar Estudiante</string>
+</resources>
